@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora Básica!
+Calculadora desenvolvida em css e Js!
